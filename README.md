@@ -1,6 +1,7 @@
 # Java-Casino
 A Simple Command Propt Java Casino Program with Mini Games
-
+The main method is located the CasinoTest.java
+and most of the code is Casino.java
 Hello This is a simple Java Program that copies a slot machine in the casino.
 The length of the code is 2500 + lines and I would be happy if someone can make it shorter
 If you have any suggestions or comments on how to make the program better please feel free to do so.
